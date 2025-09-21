@@ -1,9 +1,9 @@
 # Calculadora Cliente-Servidor com Sockets em C
 
-**Aluno 1:** [Seu Nome Completo]  
-**Matrícula:** [Sua Matrícula]  
-**Aluno 2:** [Nome Completo do Colega]  
-**Matrícula:** [Matrícula do Colega]
+**Aluno:** André Moreira Guimarães 
+**Matrícula:** 10416590
+**Aluno:** Matheus Queiroz 
+**Matrícula:** 10418143
 
 ## Visão Geral
 
